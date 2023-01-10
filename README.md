@@ -1,3 +1,3 @@
 # git-eje-alumno
 Aprendiendo a usar git
-Es un proyectod e aprendizaje prueba de git 
+Es un proyecto de aprendizaje prueba de git 
